@@ -4,3 +4,4 @@ Limonata tarifi
 3.seker (karistir)
 4.esmer seker ekle
 5.limon tuzu ekle
+6.buz ekle
