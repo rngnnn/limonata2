@@ -6,3 +6,5 @@ Limonata tarifi
 5.limon tuzu ekle
 6.buz ekle
 7.reyhan ekle
+8.nane ekle
+
